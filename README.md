@@ -13,7 +13,7 @@ Excel: PivotTables, cross-tabs, PivotCharts, slicers, What-If Data Tables, condi
 
 Files 
 Telco_Churn_Analysis.xlsx : Full workbook, see its README sheet for method, cleaning log and assumptions
-Telco Dashboard : Dashboard Screenshot 
+Telco Dashboard.png : Dashboard Screenshot 
 
 Download the .xlsx and open it in Excel to use the interactive slicers.
 
