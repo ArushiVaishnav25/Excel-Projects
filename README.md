@@ -1,9 +1,7 @@
 # Telco Customer Churn Analysis (Excel)
 End-to-end Excel analysis of 7,043 telecom customers: data cleaning, PivotTable analysis, a validated churn risk score, a What-If retention model and a one-page interactive dashboard.
 
-# Business question: Which customers are likely to leave, how much revenue is at risk, and which retention offer would pay for itself?
-
-![Telco Customer Churn Dashboard](dashboard.png)
+**Business question:** Which customers are likely to leave, how much revenue is at risk, and which retention offer would pay for itself?
 
 ## Results
 
