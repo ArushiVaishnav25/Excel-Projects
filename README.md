@@ -37,7 +37,7 @@ End-to-end Excel analysis of 7,043 telecom customers: data cleaning, PivotTable 
 |---|---|
 | `Telco_Churn_Analysis.xlsx` | Full workbook; its README sheet has the cleaning log and assumptions |
 | `Telco_Churn_Dashboard.pdf` | One-page dashboard |
-| `dashboard.png` | Dashboard screenshot |
+| `Telco Dashboard.png` | Dashboard screenshot |
 
 Download the `.xlsx` and open it in Excel to use the interactive slicers.
 
